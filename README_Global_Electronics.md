@@ -1,5 +1,9 @@
 # Global Electronics Retailer – Sales & Profitability Analysis
 
+## Dashboard Preview
+
+![Global Electronics Dashboard](screenshots/dashboard.png)
+
 Created an end-to-end Excel analytics project that is exploring sales, profitability, customer purchasing behaviour and delivery performance for a global electronics retailer. The objective is to identify where growth and risk are concentrated across products, markets and sales channels.
 
 ## Project overview
